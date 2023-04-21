@@ -1,0 +1,34 @@
+/* Звертаємося до класу тега h1, задаємо колір тексту та розмір шрифту */
+.main_text{
+    color: green;
+    font-size: 32px;
+}
+/* Звертаємося до id тега div */
+#block{
+    color: gray; /* Задаємо колір */
+    font-size: 22px; /* Задаємо розмір шрифту */
+    background-color: yellow; /* Задаємо колір фону */
+    border: 2px orange solid; /* Задаємо ширину, колір та тип рамки */
+}
+/* Звертаємося до класу тега р */
+.text_explanation{
+    color: blue; /* Задаємо колір */
+}
+.text_fragment{
+    color: crimson; /* Задаємо колір */
+    border: 1px pink dotted; /* Задаємо ширину, колір та тип рамки */
+}
+/* Звертаємося до класу тега li */
+.list_item{
+    color: purple; /* Задаємо колір */
+    font-size: 26px; /* Задаємо розмір шрифту */
+}
+/*  */
+.logo{
+    width: 400px; /* Задаємо ширину */
+    height: 200px; /* Задаємо висоту */
+}
+/* Звертаємося до класу тега a номеру телефона */
+.phone_number{
+    color: red; /* Задаємо колір */
+}

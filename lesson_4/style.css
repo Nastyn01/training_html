@@ -1,0 +1,14 @@
+.container{
+    width: 300px;
+    height: 150px;
+    background-color: green;
+}
+.senior_text{
+    color: blue;
+}
+.minor_text{
+    color: gray;
+}
+#word_color{
+    color: pink;
+}
