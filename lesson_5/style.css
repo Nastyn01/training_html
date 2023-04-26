@@ -1,0 +1,13 @@
+.button_link{
+    background-color: darkred;
+    color: azure;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 25px;
+    margin: 0 auto;
+}
